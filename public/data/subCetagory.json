@@ -1,0 +1,8 @@
+[{"state_id":"1","state_name":"Andaman and Nicobar Islands","country_id":"1"},
+    {"state_id":"2","state_name":"Andhra Pradesh","country_id":"1"},
+    {"state_id":"3","state_name":"Arunachal Pradesh","country_id":"2"},
+    {"state_id":"4","state_name":"Assam","country_id":"2"},
+    {"state_id":"5","state_name":"Bihar","country_id":"3"},
+    {"state_id":"6","state_name":"Chandigarh","country_id":"3"},
+    {"state_id":"7","state_name":"Chhattisgarh","country_id":"4"}
+]

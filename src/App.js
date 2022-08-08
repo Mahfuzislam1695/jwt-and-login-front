@@ -5,6 +5,7 @@ import Login from "./components/Login";
 import Orders from "./components/Orders";
 import Header from "./components/Header";
 import './App.css';
+import AddProduct from "./components/AddProduct";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="login" element={<Login />} />
         <Route path="orders" element={<Orders/>} />
         <Route path="about" element={<About />} />
+        <Route path="drop" element={<AddProduct />} />
       </Routes>
     </div>
   );
